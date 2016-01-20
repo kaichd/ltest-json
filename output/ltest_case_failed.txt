@@ -1,0 +1,10 @@
+	demo1.lua:18: ASSERT_EQ failed --> left:1, right:10.
+ltest.ASSERT_EQ(1, MyAdd(2, 8))
+TestAdd2
+
+
+	demo1.lua:24: EXCEPT_EQ failed --> left:10, right:30.
+	demo1.lua:25: ASSERT_EQ failed --> left:11, right:30.
+TestAdd3
+
+
